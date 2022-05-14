@@ -1,0 +1,1348 @@
+@font-face {
+    font-family: "IBM Plex Serif";
+    src: url("https://lamcdn.net/specials.lookatme.ru/brandings/assets/optimized/IBMPlexSerif/IBMPlexSerif-Reg/IBMPlexSerif-Reg-0d0466c93d5344fe13406284b9e7c701353d3c3d53bae87581d26778d696d52e.eot");
+    src: url("https://lamcdn.net/specials.lookatme.ru/brandings/assets/optimized/IBMPlexSerif/IBMPlexSerif-Reg/IBMPlexSerif-Reg-0d0466c93d5344fe13406284b9e7c701353d3c3d53bae87581d26778d696d52e.eot?#iefix") format("embedded-opentype"),url("https://lamcdn.net/specials.lookatme.ru/brandings/assets/optimized/IBMPlexSerif/IBMPlexSerif-Reg/IBMPlexSerif-Reg-306d14c1c411732612b73445a7c45a4419b3258a65da670a9cbe9fd54aa669de.woff") format("woff"),url("https://lamcdn.net/specials.lookatme.ru/brandings/assets/optimized/IBMPlexSerif/IBMPlexSerif-Reg/IBMPlexSerif-Reg-cac7c461736a2d1b928ea8091722f8089f9fb0277c7ac9a7df711558cc9074ba.woff2") format("woff2"),url("https://lamcdn.net/specials.lookatme.ru/brandings/assets/optimized/IBMPlexSerif/IBMPlexSerif-Reg/IBMPlexSerif-Reg-057921d7f796ed0c1489e177bdfec4e9cfb175c2b2d8bac1c7b81c14d4c4d406.ttf") format("truetype"),url("https://lamcdn.net/specials.lookatme.ru/brandings/assets/optimized/IBMPlexSerif/IBMPlexSerif-Reg/IBMPlexSerif-Reg-0e1c5ba2ae75a0806a86a20f3c041802505eb3edba42e9873f2a42277f552361.svg") format("svg");
+    font-display: swap;
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "IBM Plex Sans";
+    src: url("https://lamcdn.net/specials.lookatme.ru/brandings/assets/optimized/IBMPlexSans/IBMPlexSans-Reg/IBMPlexSans-Reg-c20c25cfaba2b50ab652d16ce55d54e73e3dca450a0bc659d9d1cea95aa6ded6.eot");
+    src: url("https://lamcdn.net/specials.lookatme.ru/brandings/assets/optimized/IBMPlexSans/IBMPlexSans-Reg/IBMPlexSans-Reg-c20c25cfaba2b50ab652d16ce55d54e73e3dca450a0bc659d9d1cea95aa6ded6.eot?#iefix") format("embedded-opentype"),url("https://lamcdn.net/specials.lookatme.ru/brandings/assets/optimized/IBMPlexSans/IBMPlexSans-Reg/IBMPlexSans-Reg-76743415ee0a1ec32f45c1a562846bfb90f0e0321afe25b49f8f93cea81bbf5c.woff") format("woff"),url("https://lamcdn.net/specials.lookatme.ru/brandings/assets/optimized/IBMPlexSans/IBMPlexSans-Reg/IBMPlexSans-Reg-61bfa80e071153824914399d5f7ca26ec75fcfe3f4ad20e616e88fe6d9544823.woff2") format("woff2"),url("https://lamcdn.net/specials.lookatme.ru/brandings/assets/optimized/IBMPlexSans/IBMPlexSans-Reg/IBMPlexSans-Reg-0e39248defaf23f93ec2b3fb68c22ea80722119920ff77cda85c056212522489.ttf") format("truetype"),url("https://lamcdn.net/specials.lookatme.ru/brandings/assets/optimized/IBMPlexSans/IBMPlexSans-Reg/IBMPlexSans-Reg-acdb095283922c7c98571cb938cc4bb8861d41e858fa9ebf10262c2cd722ac16.svg") format("svg");
+    font-display: swap;
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "IBM Plex Sans";
+    src: url("https://lamcdn.net/specials.lookatme.ru/brandings/assets/optimized/IBMPlexSans/IBMPlexSans-Italic/IBMPlexSans-Italic-372721ef4fbe856c288672ab9dd5bd6d2243fd8205283ea71490d85de474b570.eot");
+    src: url("https://lamcdn.net/specials.lookatme.ru/brandings/assets/optimized/IBMPlexSans/IBMPlexSans-Italic/IBMPlexSans-Italic-372721ef4fbe856c288672ab9dd5bd6d2243fd8205283ea71490d85de474b570.eot?#iefix") format("embedded-opentype"),url("https://lamcdn.net/specials.lookatme.ru/brandings/assets/optimized/IBMPlexSans/IBMPlexSans-Italic/IBMPlexSans-Italic-f94c3133671443308a59d5fc5b429215aa03d92f4e0d613b3a4207a131017ea1.woff") format("woff"),url("https://lamcdn.net/specials.lookatme.ru/brandings/assets/optimized/IBMPlexSans/IBMPlexSans-Italic/IBMPlexSans-Italic-93e2454bb00894429b36eecf243f54fa9ad0425200ad15928726537eda7eb329.woff2") format("woff2"),url("https://lamcdn.net/specials.lookatme.ru/brandings/assets/optimized/IBMPlexSans/IBMPlexSans-Italic/IBMPlexSans-Italic-3c2a9d2a80f305a7421154b5fd940f1de02cbc9524d13aaf95bda29fb2c07e1d.ttf") format("truetype"),url("https://lamcdn.net/specials.lookatme.ru/brandings/assets/optimized/IBMPlexSans/IBMPlexSans-Italic/IBMPlexSans-Italic-968a71af52b91fedbc6b8ea1968fa7c434dc4f30ae8ada94774d845ffe22f9f1.svg") format("svg");
+
+    font-display: swap;
+    font-weight: normal;
+    font-style: italic;
+}
+.project-id-610929 {
+    position: relative;
+}
+.project-id-610929 .avito-main {
+    background: #E9E5DA;
+    position: relative;
+}
+
+.project-id-610929 .avito-main * {
+    box-sizing: border-box;
+}
+.project-id-610929 .avito-main a {
+    color: #000;
+    text-decoration: underline;
+}
+.project-id-610929 .intro-wrapper {
+    width: 100%;
+    max-width: 1260px;
+}
+.project-id-610929 .intro__text {
+    font-family: "IBM Plex Serif";
+    font-style: normal;
+    font-weight: normal;
+    color: #000;
+}
+.project-id-610929 .intro__text span {
+    white-space: nowrap;
+}
+.project-id-610929 .avito-intro,
+.project-id-610929 .avito-second-hand {
+    background: #E9E5DA;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    z-index: 20;
+    position: relative;
+}
+.project-id-610929 .avito-second-hand
+.project-id-610929 .second-hand-card {
+    width: 100%;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 50px;
+    position: relative;
+    z-index: 2;
+}
+.project-id-610929 .second-hand-card .card__caption,
+.project-id-610929 .second-hand-card .card__content {
+    font-family: "IBM Plex Sans";
+    font-style: normal;
+    font-weight: normal;
+    color: #000000;
+    margin: 0;
+}
+@media screen and (min-width: 1020px) {
+    .project-id-610929 .intro {
+        font-size: 28px;
+        line-height: 36px;
+        max-width: 1020px;
+    }
+    .project-id-610929 .avito-second-hand {
+        padding: 100px 0;
+    }
+    .project-id-610929 .second-hand-card .card__caption {
+        font-size: 30px;
+        line-height: 35px;
+        text-align: center;
+        padding-bottom: 26px;
+    }
+    .project-id-610929 .second-hand-card .card__content {
+        font-size: 19px;
+        line-height: 26px;
+        text-align: center;
+    }
+    .project-id-610929 .second-hand-card .card__content:nth-child(2) {
+        padding-bottom: 26px;
+    }
+    .project-id-610929 .second-hand-card {
+        max-width: 1100px;
+        padding: 90px 240px;
+    }
+}
+@media screen and (max-width: 1120px) and (min-width: 1020px) {
+    .project-id-610929 .avito-second-hand {
+        padding: 100px 15px;
+    }
+}
+@media screen and (max-width: 1019px) {
+    .project-id-610929 .avito-main {
+        hyphens: manual;
+        overflow: hidden;
+        margin: 0 -10px;
+        width: calc(100% + 20px);
+    }
+    .project-id-610929 .avito-intro {
+        padding: 33px 15px 38px;
+    }
+    .project-id-610929 .intro {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .project-id-610929 .avito-second-hand {
+        padding: 46px 15px 40px;
+    }
+    .project-id-610929 .second-hand-card .card__caption {
+        font-size: 26px;
+        line-height: 32px;
+        text-align: left;
+        padding-bottom: 35px;
+    }
+    .project-id-610929 .second-hand-card .card__content {
+        font-size: 17px;
+        line-height: 24px;
+        text-align: left;
+    }
+    .project-id-610929 .second-hand-card .card__content:nth-child(2) {
+        padding-bottom: 24px;
+    }
+    .project-id-610929 .second-hand-card {
+        padding: 85px 15px 100px;
+    }
+}
+@media screen and (max-width: 1019px) and (min-width: 451px) {
+    .project-id-610929 .avito-main {
+        max-width: 450px;
+        margin: 0 auto;
+    }
+}
+.project-id-610929 .card-holes:before,
+.project-id-610929 .card-holes:after {
+    content: '';
+    width: 42px;
+    height: 42px;
+    position: absolute;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 50%;
+}
+.project-id-610929 .card-holes:before {
+    top: 30px;
+}
+.project-id-610929 .card-holes:after {
+    bottom: 30px;
+}
+.project-id-610929 .card-holes.holes-left:before,
+.project-id-610929 .card-holes.holes-left:after {
+    left: 45px;
+}
+.project-id-610929 .card-holes.holes-right:before,
+.project-id-610929 .card-holes.holes-right:after {
+    right: 45px;
+}
+.project-id-610929 .card-holes.holes-left:before {
+    background: #FF6163;
+}
+.project-id-610929 .card-holes.holes-right:before {
+    background: #00AAFF;
+}
+.project-id-610929 .card-holes.holes-left:after {
+    background: #97CF26;
+}
+.project-id-610929 .card-holes.holes-right:after {
+    background: #A169F7;
+
+}
+
+.project-id-610929 .avito-main .blue-card-btn {
+    background: #00AAFF;
+    color: #FFFFFF;
+    font-family: "IBM Plex Sans";
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    padding: 15px 0;
+    display: block;
+    border-radius: 100px;
+    border: none;
+    text-decoration: none;
+}
+.project-id-610929 .blue-card-btn,
+.project-id-610929 .blue-card-btn:active, 
+.project-id-610929 .blue-card-btn:focus {
+    outline: none;
+}
+@media screen and (min-width: 1020px) {
+    .project-id-610929 .blue-card-btn {
+        width: 250px;
+        margin: 49px auto 0;
+    }
+}
+@media screen and (max-width: 1019px) {
+    .project-id-610929 .card-holes.holes-right:before,
+    .project-id-610929 .card-holes.holes-right:after {
+        display: none;
+    }
+    .project-id-610929 .card-holes:before,
+    .project-id-610929 .card-holes:after {
+        width: 35px;
+        height: 35px;
+    }
+    .project-id-610929 .card-holes:before {
+        top: 20px;
+    }
+    .project-id-610929 .card-holes.holes-left:before,
+    .project-id-610929 .card-holes.holes-left:after {
+        left: 50%;
+        transform:translate(-50%, 0%);
+    }
+    .project-id-610929 .card-holes:after {
+        bottom: 20px;
+    }
+    .project-id-610929 .blue-card-btn {
+        width: 100%;
+        margin: 45px auto 0;
+    }
+}
+@media screen and (max-width: 1019px) and (min-width: 451px) {
+    .project-id-610929 .blue-card-btn {
+        max-width: 250px;
+    }
+}
+.project-id-610929 .avito-about-person {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+    width: 100%;
+    opacity: 0;
+    z-index: 1;
+}
+.project-id-610929 .avito-interactive,
+.project-id-610929 .avito-interactive .avito-interactive-inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.project-id-610929 .avito-interactive {
+    flex-direction: column;
+    opacity: 1;
+}
+.project-id-610929 .avito-interactive .avito-interactive-inner {
+    z-index: 2;
+    width: 100%;
+    column-gap: 30px;
+}
+.project-id-610929 .avito-interactive.purple {
+    background: #CBACFA;
+    z-index: 5;
+}
+.project-id-610929 .avito-interactive.green {
+    background: #CBE792;
+    z-index: 4;
+}
+.project-id-610929 .avito-interactive.pink {
+    background: #FEACAE;
+    z-index: 3;
+}
+.project-id-610929 .avito-interactive.blue {
+    background: #81D4FF;
+    z-index: 2;
+}
+.project-id-610929 .avito-interactive.orange {
+    background: #FFD78F;
+    z-index: 1;
+}
+.project-id-610929 .avito-about-person .person-card {
+    width: 100%;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 50px;
+    display: flex;
+    position: relative;
+    overflow: hidden;
+}
+.project-id-610929 .card__main-person {
+    border-radius: 50px;
+    margin: -1px 0 -1px -1px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background-color: #FFFFFF;
+}
+.project-id-610929 .card__main-person img {
+    border: 1px solid #000000;
+    border-radius: 50%;
+}
+.project-id-610929 .card__main-person .person__name,
+.project-id-610929 .card__main-person .person__description {
+    font-family: "IBM Plex Sans";
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+    color: #000000;
+    width: 100%;
+    border: 1px solid #000000;
+    border-radius: 50px;
+    margin: -1px -1px 0;
+}
+.project-id-610929 .card__main-person .person__name {
+    font-size: 25px;
+    line-height: 35px;
+    padding: 17px 0 20px;
+}
+.project-id-610929 .card__main-person .person__description {
+    font-size: 16px;
+    line-height: 20px;
+    padding: 24px 0 26px;
+}
+.project-id-610929 .person-card-holes:before,
+.project-id-610929 .person-card-holes:after,
+.project-id-610929 .person-card-hole:after {
+    content: '';
+    width: 42px;
+    height: 42px;
+    position: absolute;
+    border: 1px solid #000000;
+    border-radius: 50%;
+    left: 50%;
+    transform:translate(-50%, 0%);
+}
+.project-id-610929 .person-card-holes.purple:before,
+.project-id-610929 .person-card-holes.purple:after,
+.project-id-610929 .person-card-hole.purple:after {
+    background: #CBACFA;
+}
+.project-id-610929 .person-card-holes.blue:before,
+.project-id-610929 .person-card-holes.blue:after,
+.person-card-hole.blue:after {
+    background: #81D4FF;
+}
+.project-id-610929 .person-card-holes.green:before,
+.project-id-610929 .person-card-holes.green:after,
+.person-card-hole.green:after {
+    background: #CBE792;
+}
+.project-id-610929 .person-card-holes.orange:before,
+.project-id-610929 .person-card-holes.orange:after,
+.person-card-hole.orange:after {
+    background: #FFD78F;
+}
+.project-id-610929 .person-card-holes.pink:before,
+.project-id-610929 .person-card-holes.pink:after,
+.project-id-610929 .person-card-hole.pink:after {
+    background: #FEACAE;
+}
+.project-id-610929 .card__description {
+    font-family: "IBM Plex Sans";
+    font-style: normal;
+    font-weight: normal;
+    text-align: left;
+    color: #000;
+    overflow-y: scroll;
+}
+.project-id-610929 .card__description::-webkit-scrollbar {
+    width: 0;
+}
+.project-id-610929 .card__description p {
+    margin: 0;
+}
+@media screen and (min-width: 1020px) {
+    .project-id-610929 .avito-about-person .person-card {
+        max-width: 1100px;
+        height: 660px;
+        width: 300px;
+    }
+    .project-id-610929 .card__main-person {
+        border: 1px solid #000000;
+        min-width: 300px;
+    }
+    .project-id-610929 .card__main-person img {
+        width: 203px;
+        height: 203px;
+    }
+    .project-id-610929 .person-card-holes:before {
+        top: 30px;
+    }
+    .project-id-610929 .person-card-holes:after {
+        bottom: 30px;
+    }
+    .project-id-610929 .card__description p:first-child {
+        padding-top: 80px
+    }
+    .project-id-610929 .card__description {
+        font-size: 19px;
+        line-height: 26px;
+        height: 100%;
+    }
+    .project-id-610929 .description-wrapper {
+        margin: 0 120px 0 80px;
+        position: relative;
+    }
+    .project-id-610929 .card__description p:not(:last-of-type) {
+        padding-bottom: 26px;
+    }
+    .project-id-610929 .person-card-hole:after {
+        display: none;
+    }
+    .project-id-610929 .transparent-block:after,
+    .project-id-610929 .transparent-block:before {
+        content: '';
+        position: absolute;
+        height: 80px;
+        width: 100%;
+    }
+    .project-id-610929 .transparent-block:after {
+        top: 0px;
+        background: linear-gradient(to top , rgba(255, 255, 255, .0), rgba(255, 255, 255, 1));
+    }
+    .project-id-610929 .transparent-block:before {
+        bottom: 0px;
+        background: linear-gradient(to bottom, rgba(255, 255, 255, .0), rgba(255, 255, 255, 1));
+    }
+    .project-id-610929 .avito-interactive .avito-interactive-inner,
+    .project-id-610929 .avito-interactive {
+        height: 860px;
+    }
+    .project-id-610929 .avito-interactive .avito-interactive-inner {
+        padding: 0 20px;
+    }
+    .project-id-610929 .avito-about-person {
+        max-width: 1100px;
+        height: 860px;
+    }
+    .project-id-610929 .avito-interactive .interactive__image {
+        max-width: 600px;
+        max-height: 860px;
+        height: 100%;
+        position: relative;
+    }
+    .project-id-610929 .avito-interactive .interactive__image .back-img {
+        width: 100%;
+    }
+}
+@media screen and (max-width: 1019px) {
+    .project-id-610929 .person-card {
+        flex-direction: column;
+        width: 100%;
+    }
+    .project-id-610929 .card__main-person img {
+        width: 180px;
+        height: 180px;
+    }
+    .project-id-610929 .card__main-person {
+        padding: 95px 0;
+    }
+    .project-id-610929 .person-card-holes:before,
+    .project-id-610929 .person-card-holes:after,
+    .project-id-610929 .person-card-hole:after {
+        width: 35px;
+        height: 35px;
+    }
+    .project-id-610929 .person-card-holes:before {
+        top: 20px;
+    }
+    .project-id-610929 .person-card-holes:after,
+    .project-id-610929 .person-card-hole:after  {
+        bottom: 20px;
+    }
+    .project-id-610929 .card__main-person .person__description {
+        padding: 22px 0 28px;
+    }
+    .project-id-610929 .card__description {
+        margin: 0 15px 115px;
+        overflow-y: hidden;
+        font-size: 17px;
+        line-height: 24px;
+    }
+    .project-id-610929 .card__description p:not(:last-of-type) {
+        padding-bottom: 24px;
+    }
+    .project-id-610929 .avito-about-person,
+    .project-id-610929 .avito-interactive {
+        height: 100%;
+    }
+}
+@media screen and (max-width: 1120px) and (min-width: 1020px) {
+    .project-id-610929 .avito-about-person {
+        padding: 100px 15px;
+    }
+}
+.project-id-610929 .avito-interactive .interactive__range {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "IBM Plex Sans";
+    font-style: normal;
+    font-weight: normal;
+    color: #000000;
+    max-width: 500px;
+}
+.project-id-610929 .avito-interactive .interactive__range .end-range {
+    display: none;
+}
+.project-id-610929 .avito-interactive .interactive__range.range-ending .end-range {
+    display: block;
+}
+.project-id-610929 .avito-interactive .interactive__range.range-ending .start-range {
+    display: none;
+}
+.project-id-610929 .avito-interactive .interactive__range p {
+    margin: 0;
+}
+.project-id-610929 .interactive__count {
+    border: 1px solid #000000;
+    border-radius: 50%;
+}
+.project-id-610929 .interactive__title {
+    text-align: center;
+}
+.project-id-610929 .interactive__prompt {
+    text-align: center;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.project-id-610929 input[type=range] {
+    -webkit-appearance: none;
+    background: transparent;
+    transition: 1s all ease-out;
+}
+.project-id-610929 input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    transition: 1s all ease-out;
+}
+.project-id-610929 input[type=range]:focus {
+    outline: none;
+}
+.project-id-610929 input[type=range]::-ms-track {
+    width: 100%;
+    cursor: pointer;
+    background: transparent; 
+    border-color: transparent;
+    color: transparent;
+}
+.project-id-610929 .avito-range {
+    cursor: pointer;
+    border: 3px solid #ffffff;
+    background-color: #fff;
+    box-shadow: 0 0 1px 1px rgba(0,0,0,1);
+    padding: 0 30px;
+    background-size: calc(100% - 30px) 100%;
+    border-radius: 100px;
+    background-position: 0;
+    background-repeat: no-repeat;
+}
+.project-id-610929 .purple .avito-range {
+    background-image: linear-gradient(to right, #CBACFA 0%, #CBACFA calc((100% - 60px) * .5 + 30px), #fff calc((100% - 60px) * .5 + 30px), #fff 100%);
+}
+.project-id-610929 .purple .avito-scroll .scrollbar {
+    background-image: linear-gradient(to bottom, #CBACFA 0%, #CBACFA 30px, #fff 30px, #fff 100%);
+}
+.project-id-610929 .green .avito-range {
+    background-image: linear-gradient(to right, #CBE792 0%, #CBE792 calc((100% - 60px) * .5 + 30px), #fff calc((100% - 60px) * .5 + 30px), #fff 100%);
+}
+.project-id-610929 .green .avito-scroll .scrollbar {
+    background-image: linear-gradient(to bottom, #CBE792 0%, #CBE792 30px, #fff 30px, #fff 100%);
+}
+.project-id-610929 .pink .avito-range {
+    background-image: linear-gradient(to right, #FEACAE 0%, #FEACAE calc((100% - 60px) * .5 + 30px), #fff calc((100% - 60px) * .5 + 30px), #fff 100%);
+}
+.project-id-610929 .pink .avito-scroll .scrollbar {
+    background-image: linear-gradient(to bottom, #FEACAE 0%, #FEACAE 30px, #fff 30px, #fff 100%);
+}
+.project-id-610929 .orange .avito-range {
+    background-image: linear-gradient(to right, #FFD78F 0%, #FFD78F calc((100% - 60px) * .5 + 30px), #fff calc((100% - 60px) * .5 + 30px), #fff 100%);
+}
+.project-id-610929 .orange .avito-scroll .scrollbar {
+    background-image: linear-gradient(to bottom, #FFD78F 0%, #FFD78F 30px, #fff 30px, #fff 100%);
+}
+.project-id-610929 .blue .avito-range {
+    background-image: linear-gradient(to right, #81D4FF 0%, #81D4FF calc((100% - 60px) * .5 + 30px), #fff calc((100% - 60px) * .5 + 30px), #fff 100%);
+}
+.project-id-610929 .blue .avito-scroll .scrollbar {
+    background-image: linear-gradient(to bottom, #81D4FF 0%, #81D4FF 30px, #fff 30px, #fff 100%);
+}
+.project-id-610929 input[type=range]::-ms-fill-lower {
+    border-radius: 100px;
+    border: 1px solid #000000;
+}
+.project-id-610929 .purple input[type=range]::-ms-fill-lower {
+    background: #CBACFA;
+}
+.project-id-610929 .pink input[type=range]::-ms-fill-lower {
+    background: #FEACAE;
+}
+.project-id-610929 .blue input[type=range]::-ms-fill-lower {
+    background: #81D4FF;
+}
+.project-id-610929 .green input[type=range]::-ms-fill-lower {
+    background: #CBE792;
+}
+.project-id-610929 .orange input[type=range]::-ms-fill-lower {
+    background: #FFD78F;
+}
+.project-id-610929 input[type=range]::-ms-fill-upper {
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 100px;
+}
+.project-id-610929 .interactive__price {
+    justify-content: center;
+    display: flex;
+    position: relative;
+}
+.project-id-610929 .interactive__price .price-detail {
+    position: absolute;
+    font-family: "IBM Plex Sans";
+    font-style: normal;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+}
+.project-id-610929 .price-detail .vertical-line {
+    border-bottom: 1px solid #000000;
+    transform: rotate(-90deg);
+}
+.project-id-610929 .avito-btn {
+    color: #000000;
+    font-family: "IBM Plex Sans";
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    padding: 15px 0;
+    display: block;
+    border-radius: 100px;
+    border: 1px solid #000000;
+    width: 220px;
+    -webkit-transition: 0.25s;
+    transition: 0.25s;
+    background: none;
+}
+.project-id-610929 .avito-btn-black {
+    color: #fff;
+    font-family: "IBM Plex Sans";
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    padding: 15px 0;
+    display: block;
+    border-radius: 100px;
+    border: 1px solid #000000;
+    width: 220px;
+    -webkit-transition: 0.25s;
+    transition: 0.25s;
+    background: #000;
+}
+.project-id-610929 .avito-btn,
+.project-id-610929 .avito-btn:active, 
+.project-id-610929 .avito-btn:focus,
+.project-id-610929 .avito-btn-black,
+.project-id-610929 .avito-btn-black:active, 
+.project-id-610929 .avito-btn-black:focus {
+    outline: none;
+}
+.project-id-610929 .avito-btn:hover,
+.project-id-610929 .avito-btn:focus {
+  box-shadow: inset -110px 0 0 0 #FFFFFF, inset 110px 0 0 0 #FFFFFF;
+  cursor: pointer;
+}
+.project-id-610929 .avito-btn.green:hover,
+.project-id-610929 .avito-btn.green:focus:focus {
+    box-shadow: inset -110px 0 0 0 #CBE792, inset 110px 0 0 0 #CBE792;
+}
+.project-id-610929 .avito-btn.pink:hover,
+.project-id-610929 .avito-btn.pink:focus:focus {
+    box-shadow: inset -110px 0 0 0 #FEACAE, inset 110px 0 0 0 #FEACAE;
+}
+.project-id-610929 .avito-btn.blue:hover,
+.project-id-610929 .avito-btn.blue:focus:focus {
+    box-shadow: inset -110px 0 0 0 #81D4FF, inset 110px 0 0 0 #81D4FF;
+}
+.project-id-610929 .avito-btn.orange:hover,
+.project-id-610929 .avito-btn.orange:focus:focus {
+    box-shadow: inset -110px 0 0 0 #FFD78F, inset 110px 0 0 0 #FFD78F;
+}
+.project-id-610929 .avito-btn.purple:hover,
+.project-id-610929 .avito-btn.purple:focus:focus {
+    box-shadow: inset -110px 0 0 0 #CBACFA, inset 110px 0 0 0 #CBACFA;
+}
+.project-id-610929 .price-detail .price {
+    position: absolute;
+    white-space: nowrap;
+    display: block;
+    text-align: center;
+}
+.project-id-610929 .interactive__price[data-value="1"] .price-detail.detail1 { display: flex; }
+.project-id-610929 .interactive__price[data-value="2"] .price-detail.detail2 { display: flex; }
+.project-id-610929 .interactive__price[data-value="3"] .price-detail.detail3 { display: flex; }
+.project-id-610929 .interactive__price[data-value="4"] .price-detail.detail4 { display: flex; }
+.project-id-610929 .interactive__price[data-value="5"] .price-detail.detail5 { display: flex; }
+
+@media screen and (min-width: 1020px) {
+    .project-id-610929 .avito-interactive .interactive__image,
+    .project-id-610929 .avito-interactive .interactive__range {
+        flex-basis: 46%;
+    }
+    .project-id-610929 .interactive__count {
+        font-size: 14px;
+        line-height: 20px;
+        padding: 15px 14px;
+    }
+    .project-id-610929 .interactive__title {
+        font-size: 30px;
+        line-height: 35px;
+        padding: 25px 0 16px;
+    }
+    .project-id-610929 .interactive__price {
+        margin: 80px auto 0;
+        padding-bottom: 84px;
+    }
+    .project-id-610929 .mobile-interactive__image {
+        display: none;
+    }
+    .project-id-610929 .avito-range {
+        width: 500px;
+        height: 22px;
+        padding: 0 30px;
+        background-size: calc(100% - 30px) 100%;
+    }
+    /* for WebKit/Blink */
+    .project-id-610929 input[type=range]::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        background: #000000;
+        border-radius: 50%;
+        cursor: pointer;
+        width: 42px;
+        height: 42px;
+    }
+    /* for Firefox */
+    .project-id-610929 input[type=range]::-moz-range-thumb {
+        border-radius: 50%;
+        background: #000000;
+        cursor: pointer;
+        width: 42px;
+        height: 42px;
+    } 
+    /* for IE */
+    .project-id-610929 input[type=range]::-ms-thumb {
+        border-radius: 50%;
+        background: #000000;
+        cursor: pointer;
+        width: 42px;
+        height: 42px;
+    }
+    .project-id-610929 input[type=range]::-moz-range-track {
+        width: 100%;
+        height: 30px;
+        cursor: pointer;
+        background: #FFFFFF;
+        border: 1px solid #000000;
+        border-radius: 100px;
+    }
+    .project-id-610929 input[type=range]::-ms-track {
+        width: 100%;
+        height: 30px;
+        cursor: pointer;
+        background: transparent;
+        border: none;
+        color: transparent;
+    }
+    .project-id-610929 .interactive__price .price-detail {
+        display: none;
+        flex-direction: column;
+        top: 60px;
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .project-id-610929 .price-detail .price {
+        margin-top: 26px !important;
+    }
+    .project-id-610929 .price-detail.detail1 {
+        left: 44px;
+    }
+    .project-id-610929 .price-detail.detail2 {
+        left: 142px;
+    }
+    .project-id-610929 .price-detail.detail3 {
+        left: 241px;
+    }
+    .project-id-610929 .price-detail.detail4 {
+        right: 142px;
+    }
+    .project-id-610929 .price-detail.detail5 {
+        right: 44px;
+    }
+    .project-id-610929 .interactive__range .avito-btn,
+    .project-id-610929 .interactive__range .avito-btn-black {
+        margin-top: 84px;
+    }
+    .project-id-610929 .card__description .avito-btn,
+    .project-id-610929 .card__description .avito-btn-black {
+        margin: 65px auto 80px;
+    }
+    .project-id-610929 .price-detail .vertical-line {
+        width: 23px;
+    }
+}
+@media screen and (max-width: 1019px) {
+    .project-id-610929 .avito-interactive .interactive__range {
+        flex-basis: 100%;
+    }
+    .project-id-610929 .avito-interactive {
+        flex-direction: column;
+        padding: 25px 15px 30px;
+    }
+    .project-id-610929 .avito-interactive .interactive__image {
+        display: none;
+    }
+    .project-id-610929 .mobile-interactive__image {
+        display: block;
+        position: relative;
+        width: 320px;
+        height: 215px;
+    }
+    .project-id-610929 .interactive__count {
+        font-size: 12px;
+        line-height: 20px;
+        padding: 8px;
+    }
+    .project-id-610929 .interactive__title {
+        font-size: 20px;
+        line-height: 25px;
+        padding: 7px 0;
+    }
+    .project-id-610929 .interactive__prompt {
+        padding-bottom: 12px;
+    }
+    .project-id-610929 .avito-range {
+        width: 290px;
+        height: 17px;
+    }
+    .project-id-610929 input[type=range]::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        background: #000000;
+        border-radius: 50%;
+        cursor: pointer;
+        width: 35px;
+        height: 35px;
+    }
+    /* for Firefox */
+    .project-id-610929 input[type=range]::-moz-range-thumb {
+        border-radius: 50%;
+        background: #000000;
+        cursor: pointer;
+        width: 35px;
+        height: 35px;
+    } 
+    /* for IE */
+    .project-id-610929 input[type=range]::-ms-thumb {
+        border-radius: 50%;
+        background: #000000;
+        cursor: pointer;
+        width: 35px;
+        height: 35px;
+    }
+    .project-id-610929 input[type=range]::-moz-range-track {
+        width: 100%;
+        height: 22px;
+        cursor: pointer;
+        background: #FFFFFF;
+        border: 1px solid #000000;
+        border-radius: 100px;
+    }
+    .project-id-610929 input[type=range]::-ms-track {
+        width: 100%;
+        height: 22px;
+        cursor: pointer;
+        background: transparent;
+        border: none;
+        color: transparent;
+    }
+    .project-id-610929 .interactive__price .price-detail {
+        display: none;
+        flex-direction: column-reverse;
+        bottom: 42px;
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .project-id-610929 .price-detail .price {
+        margin-bottom: 16px !important;
+        margin-top: -10px !important;
+    }
+    .project-id-610929 .card__description .avito-btn,
+    .project-id-610929 .card__description .avito-btn-black {
+        margin: 60px auto 0;
+    }
+    .project-id-610929 .interactive__price {
+        margin: 84px auto 0;
+        padding-bottom: 0;
+    }
+    .project-id-610929 .interactive__range .avito-btn,
+    .project-id-610929 .interactive__range .avito-btn-black {
+        margin-top: 35px;
+    }
+    .project-id-610929 .price-detail .vertical-line {
+        width: 12px;
+    }
+    .project-id-610929 .price-detail.detail1 {
+        left: 45px;
+    }
+    .project-id-610929 .price-detail.detail2 {
+        left: 92px;
+    }
+    .project-id-610929 .price-detail.detail3 {
+        left: 140px;
+    }
+    .project-id-610929 .price-detail.detail4 {
+        right: 92px;
+    }
+    .project-id-610929 .price-detail.detail5 {
+        right: 45px;
+    }
+
+}
+
+.project-id-610929 .avito-interactive_hidden {
+    opacity: 0;
+    transition: opacity .3s;
+    position: absolute;
+    width: 100%;
+}
+
+.project-id-610929 .avito-interactive + .avito-interactive {
+    position: absolute;
+    opacity: 0;
+}
+
+.project-id-610929 .avito-interactive_hidden + .avito-interactive:not(.avito-interactive_hidden) {
+    position: static;
+    opacity: 1;
+    transition: opacity .3s;
+}
+
+@media screen and (min-height: 1020px) {
+    .project-id-610929 .avito-interactive_hidden + .avito-interactive:not(.avito-interactive_hidden) {
+        transition-delay: .3s;
+    }
+}
+
+.project-id-610929 .avito-interactive .avito-interactive-inner_hidden {
+    position: absolute;
+    opacity: 0;
+    z-index: 1;
+    transition: opacity .3s;
+}
+
+.project-id-610929 .avito-about-person:not(.avito-about-person_shown) {
+    position: absolute;
+}
+
+.project-id-610929 .avito-about-person_shown {
+    opacity: 1;
+    z-index: 2;
+    transition: opacity .3s;
+}
+
+.project-id-610929 .avito-about-person_shown .person-card {
+    width: 100%;
+    transition: width .6s;
+    transition-delay: .6s;
+}
+.project-id-610929 .product-img {
+    position: absolute;
+}
+@media screen and (min-width: 1020px) {
+    .project-id-610929 .tuta-product1 {
+        width: 257px;
+        height: 240px;
+        top: 72px;
+        left: 20%;
+    }
+    .project-id-610929 .tuta-product2 {
+        width: 151px;
+        height: 219px;
+        top: 258px;
+        left: 6%;
+    }
+    .project-id-610929 .tuta-product3 {
+        width: 289px;
+        height: 237px;
+        top: 223px;
+        left: 40%;
+    }
+    .project-id-610929 .tuta-product4 {
+        width: 241px;
+        height: 240px;
+        bottom: 172px;
+        left: 15%;
+    }
+    .project-id-610929 .tuta-product5 {
+        width: 179px;
+        height: 272px;
+        bottom: 111px;
+        left: 65%;
+    }
+    .project-id-610929 .ajgul-product1 {
+        width: 273px;
+        height: 217px;
+        top: 102px;
+        left: 43%;
+    }
+    .project-id-610929 .ajgul-product2 {
+        width: 231px;
+        height: 306px;
+        top: 168px;
+        left: 0%;
+    }
+    .project-id-610929 .ajgul-product3 {
+        width: 230px;
+        height: 257px;
+        top: 319px;
+        left: 56%;
+    }
+    .project-id-610929 .ajgul-product4 {
+        width: 246px;
+        height: 369px;
+        top: 419px;
+        left: 15%;
+    }
+    .project-id-610929 .tatiana-product1 {
+        width: 302px;
+        height: 290px;
+        top: 116px;
+        left: 1%;
+    }
+    .project-id-610929 .tatiana-product2 {
+        width: 222px;
+        height: 210px;
+        top: 116px;
+        left: 63%;
+    }
+    .project-id-610929 .tatiana-product3 {
+        width: 122px;
+        height: 239px;
+        top: 380px;
+        left: 3%;
+    }
+    .project-id-610929 .tatiana-product4 {
+        width: 287px;
+        height: 216px;
+        top: 376px;
+        left: 45%;
+    }
+    .project-id-610929 .tatiana-product5 {
+        width: 259px;
+        height: 278px;
+        top: 519px;
+        left: 25%;
+    }
+    .project-id-610929 .anastasiya-product1 {
+        width: 222px;
+        height: 169px;
+        top: 130px;
+        left: 3%;
+    }
+    .project-id-610929 .anastasiya-product2 {
+        width: 103px;
+        height: 234px;
+        top: 146px;
+        left: 65%;
+    }
+    .project-id-610929 .anastasiya-product3 {
+        width: 143px;
+        height: 180px;
+        top: 347px;
+        left: 10%;
+    }
+    .project-id-610929 .anastasiya-product4 {
+        width: 235px;
+        height: 323px;
+        top: 259px;
+        left: 32%;
+    }
+    .project-id-610929 .anastasiya-product5 {
+        width: 159px;
+        height: 157px;
+        top: 337px;
+        left: 74%;
+    }
+    .project-id-610929 .anastasiya-product6 {
+        width: 216px;
+        height: 156px;
+        top: 573px;
+        left: 10%;
+    }
+    .project-id-610929 .anastasiya-product7 {
+        width: 224px;
+        height: 206px;
+        top: 558px;
+        left: 60%;
+    }
+    .project-id-610929 .maria-product1 {
+        width: 276.92px;
+        height: 236px;
+        top: 160px;
+        left: 1%;
+    }
+    .project-id-610929 .maria-product2 {
+        width: 297px;
+        height: 250px;
+        top: 94px;
+        left: 50%;
+    }
+    .project-id-610929 .maria-product3 {
+        width: 268.43px;
+        height: 284.66px;
+        transform: rotate(-11.66deg);
+        top: 367px;
+        left: 1%;
+    }
+    .project-id-610929 .maria-product4 {
+        width: 285px;
+        height: 505px;
+        top: 285px;
+        left: 44%;
+    }
+}
+@media screen and (max-width: 1019px) {
+    .project-id-610929 .tuta-product1 {
+        width: 133.72px;
+        height: 124.5px;
+        transform: rotate(20.04deg);
+        top: 0px;
+        left: 35%;
+    }
+    .project-id-610929 .tuta-product2 {
+        width: 70px;
+        height: 101px;
+        top: 103px;
+        left: 24%;
+    }
+    .project-id-610929 .tuta-product3 {
+        width: 153.16px;
+        height: 126.42px;
+        transform: rotate(-8.24deg);
+        top: 4px;
+        left: -3%;
+    }
+    .project-id-610929 .tuta-product4 {
+        width: 108px;
+        height: 107px;
+        top: 111px;
+        left: 46%;
+    }
+    .project-id-610929 .tuta-product5 {
+        width: 95px;
+        height: 143px;
+        transform: rotate(-15deg);
+        top: 0px;
+        left: 68%;
+    }
+    .project-id-610929 .ajgul-product1 {
+        width: 143px;
+        height: 114px;
+        top: 101px;
+        left: 2%;
+    }
+    .project-id-610929 .ajgul-product2 {
+        width: 101px;
+        height: 133px;
+        top: -4px;
+        left: 12%;
+    }
+    .project-id-610929 .ajgul-product3 {
+        width: 115px;
+        height: 128px;
+        top: 45px;
+        left: 65%;
+
+    }
+    .project-id-610929 .ajgul-product4 {
+        width: 131px;
+        height: 197px;
+        top: 3px;
+        left: 38%;
+    }
+    .project-id-610929 .tatiana-product1 {
+        width: 142px;
+        height: 136px;
+        top: -4px;
+        left: 4%;
+    }
+    .project-id-610929 .tatiana-product2 {
+        width: 116px;
+        height: 109px;
+        top: -1px;
+        left: 60%;
+    }
+    .project-id-610929 .tatiana-product3 {
+        width: 64px;
+        height: 127px;
+        transform: rotate(10.7deg);
+        top: 60px;
+        left: 42%;
+    }
+    .project-id-610929 .tatiana-product4 {
+        width: 134px;
+        height: 101px;
+        top: 108px;
+        left: 57%;
+    }
+    .project-id-610929 .tatiana-product5 {
+        width: 117px;
+        height: 126px;
+        transform: rotate(-9.72deg);
+        top: 79px;
+        left: 4%;
+    }
+    .project-id-610929 .anastasiya-product1 {
+        width: 104px;
+        height: 78px;
+        top: 140px;
+        left: 4%;
+    }
+    .project-id-610929 .anastasiya-product2 {
+        width: 57px;
+        height: 127px;
+        top: -11px;
+        left: 65%;
+    }
+    .project-id-610929 .anastasiya-product3 {
+        width: 66px;
+        height: 83px;
+        top: -4px;
+        left: 2%;
+    }
+    .project-id-610929 .anastasiya-product4 {
+        width: 136px;
+        height: 187px;
+        top: 8px;
+        left: 29%;
+    }
+    .project-id-610929 .anastasiya-product5 {
+        width: 74px;
+        height: 74px;
+        top: 79px;
+        left: 75%;
+    }
+    .project-id-610929 .anastasiya-product6 {
+        width: 106px;
+        height: 76px;
+        top: 142px;
+        left: 68%;
+    }
+    .project-id-610929 .anastasiya-product7 {
+        width: 104px;
+        height: 95px;
+        top: 63px;
+        left: 7%;
+    }
+    .project-id-610929 .maria-product1 {
+        width: 129px;
+        height: 109.94px;
+        top: 12px;
+        left: 2%;
+    }
+    .project-id-610929 .maria-product2 {
+        width: 110px;
+        height: 92px;
+        top: 6px;
+        left: 64%;
+    }
+    .project-id-610929 .maria-product3 {
+        width: 124.96px;
+        height: 132.52px;
+        transform: rotate(-11.66deg);
+        top: 75px;
+        left: 58%;
+    }
+    .project-id-610929 .maria-product4 {
+        width: 128.24px;
+        height: 227.51px;
+        top: -5px;
+        left: 30%;
+    }
+}
+@media screen and (min-width: 1020px) {
+    .project-id-610929 .avito-scroll {
+        position:absolute;
+        top: 30px;
+        right: -75px;
+    }
+    .project-id-610929 .avito-scroll .scrollbar {
+        height: 592px;
+        width: 22px;
+        border: 3px solid #FFFFFF;
+        box-shadow: 0 0 1px 1px rgba(0,0,0,1);
+        border-radius: 100px;
+        position: relative;
+        padding: 50px 0;
+    }
+    .project-id-610929 .scrollbar-track {
+        position: relative;
+        width: 100%;
+        height: 100%;
+    }
+
+    .project-id-610929 .scrollbar-thumb {
+        width: 42px;
+        height: 42px;
+        background: #000;
+        border-radius: 50%;
+        position: absolute;
+        right: -13px;
+        margin-top: -21px;
+    }
+}
+.project-id-610929 .blue-card-btn:hover {
+    cursor: pointer;
+}
